@@ -17,6 +17,9 @@ Easily create your own portfolio and host it in under 15 minutes TOPS!
 RESOURCES:
 
 📚 Materials/References:
+
 Markdown: https://www.markdownguide.org/basic-s...
+
 Netlify: https://www.netlify.com/
+
 Video tutorial by [JavaScriptMastery](https://www.youtube.com/watch?v=TXAkP4WQVXY&t=10s)
